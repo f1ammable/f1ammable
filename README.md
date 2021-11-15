@@ -2,11 +2,11 @@
  
 ### On a side note, hi <img src="https://raw.githubusercontent.com/d9rect/d9rect/main/wave.gif" width="30px">
 
-- If you want to date, send a PR on this repo
 - Learning C and C++ (trying)
 - I know some python and don't use it
 - Also trying to learn RE and failing
 - I live inside of my PC (picture at top for reference)
+- If you want to date, send a PR on this repo
 
 ![stats](https://github-readme-stats.vercel.app/api?username=d9rect&show_icons=true&theme=gruvbox)
 
