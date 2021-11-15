@@ -11,6 +11,8 @@
 - Also trying to learn RE and failing
 - I live inside of my PC
 
+![stats](https://github-readme-stats.vercel.app/api?username=d9rect&show_icons=true&theme=gruvbox)
+
 ### Some stuff I use
 ![](https://img.shields.io/badge/Arch-gray?style=flat&logo=Arch%20Linux&label=OS&color=9779d4)
 ![](https://img.shields.io/badge/Windows-gray?style=flat&logo=Windows&label=OS&color=9779d4)
