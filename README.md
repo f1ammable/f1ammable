@@ -10,8 +10,9 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=cas1us&theme=gruvbox&count_private=true)
 
 ### Technologies I use
-OS: ![](https://img.shields.io/badge/-gray?style=flat&logo=apple&color=ff6666) ![](https://img.shields.io/badge/-gray?style=flat&logo=windows&color=ff6666)  \
-Langs: ![](https://img.shields.io/badge/-gray?style=flat&logo=cplusplus&color=ff6666) ![](https://img.shields.io/badge/-gray?style=flat&logo=c&color=ff6666)  \
-Misc: ![](https://img.shields.io/badge/-gray?style=flat&logo=visualstudiocode&color=ff6666) ![](https://img.shields.io/badge/-gray?style=flat&logo=vim&color=ff6666) 
+OS: <img src="https://img.shields.io/badge/-gray?style=flat&logo=apple&color=ff6666" height="30"> <img src="https://img.shields.io/badge/-gray?style=flat&logo=windows&color=ff6666" height="30"> \
+Langs: <img src="https://img.shields.io/badge/-gray?style=flat&logo=cplusplus&color=ff6666" height="30"> <img src="https://img.shields.io/badge/-gray?style=flat&logo=c&color=ff6666" height="30"> \
+Editors: <img src="https://img.shields.io/badge/-gray?style=flat&logo=visualstudiocode&color=ff6666" height="30"> <img src="https://img.shields.io/badge/-gray?style=flat&logo=vim&color=ff6666" height="30"> \
+Misc: <img src="https://img.shields.io/badge/-gray?style=flat&logo=iterm2&color=ff6666" height="30">
 
 [ghidra legend](https://cdn.discordapp.com/attachments/872075419568979988/905618078954553414/ghidra_legend.png)
