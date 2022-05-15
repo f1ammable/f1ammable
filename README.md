@@ -1,11 +1,8 @@
-![](https://i.redd.it/7nu43ek0hlw51.jpg)
- 
-### On a side note, hi <img src="https://raw.githubusercontent.com/f1ammable/f1ammable/main/wave.gif" width="30px">
+### Hi <img src="https://raw.githubusercontent.com/f1ammable/f1ammable/main/wave.gif" width="30px">
 
-- Learning C and C++ (trying)
-- I know some python and don't use it
-- Also trying to learn RE and failing
-- I live inside of my PC (picture at top for reference)
+- Student, 17
+- Learning C, C++ and Reverse Engineering
+- Interested in low-level computing 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=f1ammable&theme=gruvbox&count_private=true)
 
