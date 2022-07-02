@@ -1,10 +1,10 @@
-### Hi <img src="https://raw.githubusercontent.com/f1ammable/f1ammable/main/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/f1ammable/f1ammable/main/wave.gif" width="30px">
 
-- Student, 17
+### Something about myself
+
+- I'm a student, 17
 - Learning C, C++ and Reverse Engineering
 - Interested in low-level computing 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=f1ammable&theme=gruvbox&count_private=true)
 
 ### Technologies I use
 <img src="https://img.shields.io/badge/C-6182ff?style=for-the-badge&logo=c&logoColor=white" height="50"> <img src="https://img.shields.io/badge/C++-6182ff?style=for-the-badge&logo=cplusplus&logoColor=white" height="50">
